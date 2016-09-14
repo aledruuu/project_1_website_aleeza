@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Paaji");
+
+@import url("https://fonts.googleapis.com/css?family=Baloo+Paaji|Pacifico");
+
+@import url("https://fonts.googleapis.com/css?family=Baloo+Paaji|Pacifico|Quicksand");
+
+
+h1 {font-family: 'Pacifico', cursive;
+color: brown;}
+
+h2 {font-family: 'Baloo Paaji', cursive;}
+
+p {font-family: 'Quicksand', sans-serif; text-align: center;}
+
+img {display: block; margin-left: auto; margin-right: auto;}

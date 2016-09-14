@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1> Chocolate</h1>
+    <h2> Chocolate Now</h2>
+    <img src=http://www.temptalia.com/wp-content/uploads/2013/12/toofaced_chocolatebarpalette001.jpg>
+    <p>
+      In our modern world, chocolate has become one of the world's most popular confections.
+      The chocolate bar has become our staple food as humans and chocolate have been found to carry lots of antioxidants.
+      Dark chocolate is being sought after on the same level as milk chocolate due to claims of dark chocolate being healthier.
+      Chocolate is being used in not only edible products but also makeup and skin care.
+    </p>
+    <nav>
+      <a href="modern chocolate.html"> Go Back</a>
+      <a href=> To Learn More About Chocolate</a>
+   </body>
+  </html>
